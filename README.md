@@ -152,7 +152,9 @@ ${\color{purple} \textbf{ Host the public IP on Browser}}$
 ````
 curl ifconfig.me
 ````
-![image](https://github.com/guru6910/Docker-Student-App/assets/169146749/93853f96-c742-41c2-a1b2-aa6152baa93c)
 
-![image](https://github.com/guru6910/Docker-Student-App/assets/169146749/8e7c43f2-e2c7-44ec-82d2-7f06d0e57e96)
+![Capture1](https://github.com/aarti215/Docker-Student-App/assets/171672859/9dea53c5-1a68-42cd-ad4c-523490c0d061)
+
+![Capture2](https://github.com/aarti215/Docker-Student-App/assets/171672859/3f250262-146c-4f02-aa0f-c6680f18ab12)
+
 
